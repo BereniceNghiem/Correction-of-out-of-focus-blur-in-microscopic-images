@@ -1,4 +1,4 @@
-# Projet-IA-Telecom-Paris
+# Projet-Telecom-Paris
 
 ## Titre
 Correction du flou de défocalisation dans les images microscopiques à l’aide de modèles génératifs en deep learning
